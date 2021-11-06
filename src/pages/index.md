@@ -82,7 +82,7 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: lorem-ipsum
+  - title: contact
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
