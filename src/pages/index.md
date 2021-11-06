@@ -83,7 +83,6 @@ sections:
         url: blog
         style: button
   - title: contact
-    section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
