@@ -7,6 +7,9 @@ sections:
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     type: section_content
+    content: |+
+      سللاممم
+
 seo:
   title: Contact
   description: This is the contact page
