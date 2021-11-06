@@ -15,7 +15,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
+    title: آخرین نمونه کار ها
     subtitle: میتونید آخرین لوگو موشن های مارو اینجا ببینید .
     projects_number: 6
     view_all_label: View All
