@@ -24,7 +24,7 @@ sections:
   - section_id: services
     type: section_grid
     title: اونمو دقیقا چیکار میکنه؟
-    subtitle: An optional subtitle of the section
+    subtitle: لیست خدمات پیشنهادی اونمو
     col_number: two
     is_numbered: true
     grid_items:
