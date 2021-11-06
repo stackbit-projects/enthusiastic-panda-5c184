@@ -82,7 +82,7 @@ sections:
       - label: View Blog
         url: blog
         style: button
-  - title: contact
+  - title: ارتبااط با ما
     content: |
       *   lkkmkmd
       *   dc.ckmcl;k
