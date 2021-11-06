@@ -54,7 +54,7 @@ sections:
     col_number: three
     testimonials:
       - author: علی باقری
-        avatar: images/sean_salazar.jpg
+        avatar: images/20211026_134128.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
