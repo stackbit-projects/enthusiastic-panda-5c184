@@ -84,7 +84,12 @@ sections:
         style: button
   - title: contact
     content: |
-      *
+      *   lkkmkmd
+      *   dc.ckmcl;k
+      *   dc,cnldkc
+      *   lkdclknc;lakncal;kcakc
+      *   skcms;cm
+      *   lk;lkm
     actions: []
     type: section_hero
 seo:
