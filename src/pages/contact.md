@@ -39,6 +39,13 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
 seo:
   title: Contact
   description: This is the contact page
