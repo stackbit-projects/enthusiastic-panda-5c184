@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: right;
 }
 
-.block-title::before, .page-title::before {
+.block-title::before, .page-title::before, .post-title::before {
     border-right: 45px solid #d8195e;
     border-left: none !important;
 }
