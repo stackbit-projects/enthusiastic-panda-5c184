@@ -16,9 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: >-
-      میتونید آخرین لوگو موشن های مارو اینجا ببینید .اگه دوست دارید بیشتر در
-      بارشون بدونید روشون کلیک کنید
+    subtitle: میتونید آخرین لوگو موشن های مارو اینجا ببینید .
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
